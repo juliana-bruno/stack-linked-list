@@ -2,7 +2,7 @@
  * Name: Juliana Bruno
  * Lab: 6
  * Title: StackLinkedList.java
- * Description: ********************************
+ * Description: methods for stack linked list
  * Date: 11/13/25
  */
 
